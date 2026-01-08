@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<widget id="com.mpesify.denniskabui" version="1.0.0" android-versionCode="1" ios-CFBundleVersion="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android">
+<widget id="com.DE-MPESA" version="3.0.0" android-versionCode="1" ios-CFBundleVersion="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android">
   <name short="Messages">Messages</name>
-  <description>Mpesify Mpesa Messages</description>
-  <author href="https://www.denniskabui.com/" email="contact@denniskabui.com">Murage Kabui</author>
+  <description>DR Mpesa Messages</description>
+  <author href="https://mwakidenis.pages.dev/" email="contact@mwakidenis50.com">Mwaki Denis</author>
   <access origin="*" />
   <allow-intent href="*" />
   <allow-navigation href="*" />
