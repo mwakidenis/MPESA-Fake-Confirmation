@@ -1,5 +1,5 @@
-⚠️ IMPORTANT WARNING — READ FIRST  
-🚨 About This Project
+**⚠️ IMPORTANT WARNING — READ FIRST**  
+**🚨 About This Project**
 
 💸📲 This application creates realistic “Send Money” transaction messages, including confirmation codes 🔢 and transaction fees 💰, for demonstration, UI testing, or educational purposes only.
 
@@ -8,7 +8,7 @@
 ⚖️ You already know the legal consequences.  
 🚫 I will not be responsible for any misuse of this app.
 
-❗ DISCLAIMER
+**❗ DISCLAIMER**
 
 This project is NOT affiliated with, endorsed by, or connected to Safaricom or M-PESA.
 
@@ -18,7 +18,7 @@ Using this software to deceive, defraud, impersonate, or mislead others may be i
 
 You assume full responsibility for how this software is used.
 
-🧪 Intended Use
+**🧪 Intended Use**
 
 UI / UX design previews
 
@@ -30,7 +30,7 @@ Local testing environments
 
 NOT intended for real-world financial activity.
 
-🚫 No Liability
+**🚫 No Liability**
 
 By using, copying, or modifying this project, you agree that:
 
@@ -40,6 +40,6 @@ You accept all legal and ethical consequences
 
 You understand the risks involved
 
-📌 Final Note
+**📌 Final Note**
 
 If you don’t understand why misuse is dangerous or illegal, do not use this project.
